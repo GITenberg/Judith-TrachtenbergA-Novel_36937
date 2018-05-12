@@ -1,0 +1,45 @@
+_repo: Judith-TrachtenbergA-Novel_36937
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Lewis, Charlton Thomas
+    aliases:
+    - Lewis, C. T.
+    - Lewis, Charlton T. (Charlton Thomas)
+    birthdate: 1834
+    deathdate: &id001 1904
+    gutenberg_agent_id: '38547'
+    url: http://www.gutenberg.org/2009/agents/38547
+  - agent_name: Lewis, L. P.
+    alias: Lewis, Mrs. L. P.
+    gutenberg_agent_id: '38546'
+    url: http://www.gutenberg.org/2009/agents/38546
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Franzos, Karl Emil
+    aliases:
+    - Franzos, Emil
+    - Franzos, K. E. (Karl Emil)
+    birthdate: 1848
+    deathdate: *id001
+    gutenberg_agent_id: '37123'
+    url: http://www.gutenberg.org/2009/agents/37123
+description: ''
+gutenberg_issued: '2011-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poland -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Jews -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: 'Judith Trachtenberg: A Novel'
+url: http://www.gutenberg.org/ebooks/36937
