@@ -7,7 +7,7 @@ contributor:
     - Lewis, C. T.
     - Lewis, Charlton T. (Charlton Thomas)
     birthdate: 1834
-    deathdate: &id001 1904
+    deathdate: 1904
     gutenberg_agent_id: '38547'
     url: http://www.gutenberg.org/2009/agents/38547
   - agent_name: Lewis, L. P.
@@ -24,10 +24,12 @@ creator:
     - Franzos, Emil
     - Franzos, K. E. (Karl Emil)
     birthdate: 1848
-    deathdate: *id001
+    deathdate: 1904
     gutenberg_agent_id: '37123'
     url: http://www.gutenberg.org/2009/agents/37123
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36937#Judith-TrachtenbergA-Novel
 gutenberg_issued: '2011-08-01'
 gutenberg_type: Text
 identifiers:
